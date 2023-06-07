@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoDetemperaturaJoao", "ConversaoDetemperaturaJoao\ConversaoDetemperaturaJoao.csproj", "{5D69EE8B-7512-4267-89D1-D91E25F35951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D69EE8B-7512-4267-89D1-D91E25F35951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D69EE8B-7512-4267-89D1-D91E25F35951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D69EE8B-7512-4267-89D1-D91E25F35951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D69EE8B-7512-4267-89D1-D91E25F35951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
